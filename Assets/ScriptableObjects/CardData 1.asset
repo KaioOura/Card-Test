@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006f905e5250eb244b423ddd21df4d80, type: 3}
+  m_Name: CardData 1
+  m_EditorClassIdentifier: 
+  _title: Uma carta 1
+  _description: De fato uma carta
+  _cost: 1
+  _frontImage: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  _cardPrefab: {fileID: 1358491060106223081, guid: 9ba014a85c726f144ac3851ae9690871,
+    type: 3}
