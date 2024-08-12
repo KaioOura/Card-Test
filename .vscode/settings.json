@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Card Game Test.sln"
+    "dotnet.defaultSolution": "Card Game Test.sln",
+    "dotnet.preferCSharpExtension": true
 }
